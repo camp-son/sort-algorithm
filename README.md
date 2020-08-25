@@ -1,5 +1,7 @@
-# Algorithm - SORT
+# es6 webpack seed
 
-## Bubble sort
-* 높은 숫자부터 정렬되는 정렬
-* 1, 2, ... n 이 있을 때, (1, 2)를 비교하는 형태로 (n - 1, n)까지 돌고, 다음은 (n - 2, n - 1)까지 돌면서 높은 숫자를 제일 뒤로 보내는 정렬이다.
+## npm install lite-server
+Run `npm -g install lite-server`
+
+## npm install
+Run `npm install`
